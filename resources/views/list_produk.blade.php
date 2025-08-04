@@ -172,7 +172,7 @@
                 type="text"
                 name="keyword"
                 value="{{ request('keyword') }}"
-                placeholder="Cari produk berdasarkan nama..."
+                placeholder="Cari produk..."
                 class="px-4 py-2 border border-pink-300 rounded focus:outline-none focus:ring focus:border-pink-500 w-full max-w-xs"
             />
             <input
